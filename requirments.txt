@@ -2,6 +2,7 @@ streamlit
 pandas
 seaborn
 plotly
-scikit-learn 
 sklearn
-
+scikit-image
+scikit-learn
+Keras-Preprocessing
