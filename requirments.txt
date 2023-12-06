@@ -1,8 +1,0 @@
-streamlit
-pandas
-seaborn
-plotly
-sklearn
-scikit-image
-scikit-learn
-Keras-Preprocessing
