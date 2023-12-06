@@ -8,6 +8,8 @@ from sklearn.preprocessing import LabelEncoder
 import seaborn as sns
 import plotly.express as px
 
+from sklearn.model_selection import train_test_split
+
 # Load the Iris dataset
 df = pd.read_csv('iris.csv')
 
