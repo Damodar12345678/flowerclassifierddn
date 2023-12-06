@@ -3,5 +3,5 @@ pandas
 seaborn
 plotly
 scikit-learn 
-scikit-learn
-sklearn.model_selection
+
+
