@@ -1,11 +1,12 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, classification_report
 from sklearn.preprocessing import LabelEncoder
 import seaborn as sns
+import plotly.express as px
 
 # Load the Iris dataset
 df = pd.read_csv('iris.csv')
